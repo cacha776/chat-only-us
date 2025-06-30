@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat With Me Just Us</title>
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Chat With Me Just Us" />
+  <meta property="og:description" content="Click Below To Started" />
+  <meta property="og:image" content="https://i.postimg.cc/SJPpdTL6/484876108-122221408940244907-1864834225226224073-n.jpg" />
+  <meta property="og:url" content="https://your-vercel-url.vercel.app" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      padding: 20px;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 12px;
+    }
+    h1 {
+      font-size: 28px;
+      color: #e91e63;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #e91e63;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.postimg.cc/SJPpdTL6/484876108-122221408940244907-1864834225226224073-n.jpg" alt="Chat Me">
+    <h1>Chat With Me Just Us</h1>
+    <p>Click Below To Started</p>
+    <a class="button" href="https://foaltax.com/en188e1x32?key=73c184fe6e97e4c1d4df093542220e0d" target="_blank">CHAT ME</a>
+  </div>
+</body>
+</html>
